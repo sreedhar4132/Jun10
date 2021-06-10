@@ -14,9 +14,6 @@ import com.aventstack.extentreports.markuputils.ExtentColor;
 import com.aventstack.extentreports.markuputils.MarkupHelper;
 
 
-
-
-
 public class Listeners extends invocation implements ITestListener{
 	
 	public static ExtentTest test;
