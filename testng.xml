@@ -5,7 +5,7 @@
 <listeners>
 <listener class-name="browser.Listeners"/>
 </listeners>
-  <test name="Test">
+  <test name="Test1">
     <classes>
       <class name="browser.facebook"/>
     </classes>
