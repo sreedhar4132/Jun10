@@ -1,0 +1,238 @@
+# Created at 2020-09-20T12:55:50.278
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:397)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+
+# Created at 2020-09-20T12:55:51.867
+Unexpected IOException with stream: [
+
+# Created at 2020-09-20T12:55:51.872
+Unexpected IOException with stream: 1
+
+# Created at 2020-09-20T12:55:51.875
+Unexpected IOException with stream: 6
+
+# Created at 2020-09-20T12:55:51.878
+Unexpected IOException with stream: 0
+
+# Created at 2020-09-20T12:55:51.882
+Unexpected IOException with stream: 0
+
+# Created at 2020-09-20T12:55:51.886
+Unexpected IOException with stream: 5
+
+# Created at 2020-09-20T12:55:51.890
+Unexpected IOException with stream: 8
+
+# Created at 2020-09-20T12:55:51.894
+Unexpected IOException with stream: 6
+
+# Created at 2020-09-20T12:55:51.898
+Unexpected IOException with stream: 7
+
+# Created at 2020-09-20T12:55:51.901
+Unexpected IOException with stream: 5
+
+# Created at 2020-09-20T12:55:51.904
+Unexpected IOException with stream: 1
+
+# Created at 2020-09-20T12:55:51.907
+Unexpected IOException with stream: .
+
+# Created at 2020-09-20T12:55:51.911
+Unexpected IOException with stream: 8
+
+# Created at 2020-09-20T12:55:51.914
+Unexpected IOException with stream: 6
+
+# Created at 2020-09-20T12:55:51.918
+Unexpected IOException with stream: 4
+
+# Created at 2020-09-20T12:55:51.921
+Unexpected IOException with stream: ]
+
+# Created at 2020-09-20T12:55:51.925
+Unexpected IOException with stream: [
+
+# Created at 2020-09-20T12:55:51.928
+Unexpected IOException with stream: W
+
+# Created at 2020-09-20T12:55:51.931
+Unexpected IOException with stream: A
+
+# Created at 2020-09-20T12:55:51.935
+Unexpected IOException with stream: R
+
+# Created at 2020-09-20T12:55:51.937
+Unexpected IOException with stream: N
+
+# Created at 2020-09-20T12:55:51.940
+Unexpected IOException with stream: I
+
+# Created at 2020-09-20T12:55:51.942
+Unexpected IOException with stream: N
+
+# Created at 2020-09-20T12:55:51.944
+Unexpected IOException with stream: G
+
+# Created at 2020-09-20T12:55:51.947
+Unexpected IOException with stream: ]
+
+# Created at 2020-09-20T12:55:51.949
+Unexpected IOException with stream: :
+
+# Created at 2020-09-20T12:55:51.951
+Unexpected IOException with stream:  
+
+# Created at 2020-09-20T12:55:51.953
+Unexpected IOException with stream: T
+
+# Created at 2020-09-20T12:55:51.954
+Unexpected IOException with stream: i
+
+# Created at 2020-09-20T12:55:51.956
+Unexpected IOException with stream: m
+
+# Created at 2020-09-20T12:55:51.957
+Unexpected IOException with stream: e
+
+# Created at 2020-09-20T12:55:51.958
+Unexpected IOException with stream: d
+
+# Created at 2020-09-20T12:55:51.960
+Unexpected IOException with stream:  
+
+# Created at 2020-09-20T12:55:51.961
+Unexpected IOException with stream: o
+
+# Created at 2020-09-20T12:55:51.962
+Unexpected IOException with stream: u
+
+# Created at 2020-09-20T12:55:51.964
+Unexpected IOException with stream: t
+
+# Created at 2020-09-20T12:55:51.965
+Unexpected IOException with stream:  
+
+# Created at 2020-09-20T12:55:51.966
+Unexpected IOException with stream: c
+
+# Created at 2020-09-20T12:55:51.967
+Unexpected IOException with stream: o
+
+# Created at 2020-09-20T12:55:51.968
+Unexpected IOException with stream: n
+
+# Created at 2020-09-20T12:55:51.970
+Unexpected IOException with stream: n
+
+# Created at 2020-09-20T12:55:51.971
+Unexpected IOException with stream: e
+
+# Created at 2020-09-20T12:55:51.972
+Unexpected IOException with stream: c
+
+# Created at 2020-09-20T12:55:51.974
+Unexpected IOException with stream: t
+
+# Created at 2020-09-20T12:55:51.975
+Unexpected IOException with stream: i
+
+# Created at 2020-09-20T12:55:51.977
+Unexpected IOException with stream: n
+
+# Created at 2020-09-20T12:55:51.978
+Unexpected IOException with stream: g
+
+# Created at 2020-09-20T12:55:51.979
+Unexpected IOException with stream:  
+
+# Created at 2020-09-20T12:55:51.980
+Unexpected IOException with stream: t
+
+# Created at 2020-09-20T12:55:51.981
+Unexpected IOException with stream: o
+
+# Created at 2020-09-20T12:55:51.982
+Unexpected IOException with stream:  
+
+# Created at 2020-09-20T12:55:51.983
+Unexpected IOException with stream: C
+
+# Created at 2020-09-20T12:55:51.987
+Unexpected IOException with stream: h
+
+# Created at 2020-09-20T12:55:51.988
+Unexpected IOException with stream: r
+
+# Created at 2020-09-20T12:55:51.989
+Unexpected IOException with stream: o
+
+# Created at 2020-09-20T12:55:51.991
+Unexpected IOException with stream: m
+
+# Created at 2020-09-20T12:55:51.992
+Unexpected IOException with stream: e
+
+# Created at 2020-09-20T12:55:51.993
+Unexpected IOException with stream: ,
+
+# Created at 2020-09-20T12:55:51.993
+Unexpected IOException with stream:  
+
+# Created at 2020-09-20T12:55:51.994
+Unexpected IOException with stream: r
+
+# Created at 2020-09-20T12:55:51.995
+Unexpected IOException with stream: e
+
+# Created at 2020-09-20T12:55:51.996
+Unexpected IOException with stream: t
+
+# Created at 2020-09-20T12:55:51.997
+Unexpected IOException with stream: r
+
+# Created at 2020-09-20T12:55:51.998
+Unexpected IOException with stream: y
+
+# Created at 2020-09-20T12:55:51.998
+Unexpected IOException with stream: i
+
+# Created at 2020-09-20T12:55:51.999
+Unexpected IOException with stream: n
+
+# Created at 2020-09-20T12:55:52.000
+Unexpected IOException with stream: g
+
+# Created at 2020-09-20T12:55:52.000
+Unexpected IOException with stream: .
+
+# Created at 2020-09-20T12:55:52.001
+Unexpected IOException with stream: .
+
+# Created at 2020-09-20T12:55:52.002
+Unexpected IOException with stream: .
+
+# Created at 2020-09-20T12:55:52.002
+Unexpected IOException with stream: 
+
+# Created at 2020-09-20T12:55:52.003
+Unexpected IOException with stream: 
+
+
+# Created at 2020-09-20T12:55:59.993
+Unexpected IOException: 8,1,browser.facebook,test(browser.facebook),null,session not created\000Afrom chrome not reachable\000A  (Session info: chrome=85.0.4183.102)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-2B0D9MGJ'\002C ip: '192.168.0.9'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.7'\000ADriver info: driver.version: ChromeDriver\000Aremote stacktrace: Backtrace:\000A\0009Ordinal0 [0x00D287E3+2852835]\000A\0009Ordinal0 [0x00C15BB1+1727409]\000A\0009Ordinal0 [0x00AEE362+516962]\000A\0009Ordinal0 [0x00AE7D82+490882]\000A\0009Ordinal0 [0x00AE846B+492651]\000A\0009Ordinal0 [0x00AE93C5+496581]\000A\0009Ordinal0 [0x00AE4D64+478564]\000A\0009Ordinal0 [0x00AEF300+520960]\000A\0009Ordinal0 [0x00A9E489+189577]\000A\0009Ordinal0 [0x00A9D7FD+186365]\000A\0009Ordinal0 [0x00A9B70B+177931]\000A\0009Ordinal0 [0x00A82584+75140]\000A\0009Ordinal0 [0x00A83650+79440]\000A\0009Ordinal0 [0x00A835E9+79337]\000A\0009Ordinal0 [0x00C2AD5C+1813852]\000A\0009GetHandleVerifier [0x00E4C616+1075574]\000A\0009GetHandleVerifier [0x00E4C367+1074887]\000A\0009GetHandleVerifier [0x00E57497+1120247]\000A\0009GetHandleVerifier [0x00E4CC16+1077110]\000A\0009Ordinal0 [0x00C23206+1782278]\000A\0009Ordinal0 [0x00C2C3BB+1819579]\000A\0009Ordinal0 [0x00C2C523+1819939]\000A\0009Ordinal0 [0x00C42B45+1911621]\000A\0009BaseThreadInitThunk [0x76126359+25]\000A\0009RtlGetAppContainerNamedObjectPath [0x777A7C24+228]\000A\0009RtlGetAppContainerNamedObjectPath [0x777A7BF4+180]\000A,null,session not created\000Afrom chrome not reachable\000A  (Session info: chrome=85.0.4183.102)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-2B0D9MGJ'\002C ip: '192.168.0.9'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.7'\000ADriver info: driver.version: ChromeDriver\000Aremote stacktrace: Backtrace:\000A\0009Ordinal0 [0x00D287E3+2852835]\000A\0009Ordinal0 [0x00C15BB1+1727409]\000A\0009Ordinal0 [0x00AEE362+516962]\000A\0009Ordinal0 [0x00AE7D82+490882]\000A\0009Ordinal0 [0x00AE846B+492651]\000A\0009Ordinal0 [0x00AE93C5+496581]\000A\0009Ordinal0 [0x00AE4D64+478564]\000A\0009Ordinal0 [0x00AEF300+520960]\000A\0009Ordinal0 [0x00A9E489+189577]\000A\0009Ordinal0 [0x00A9D7FD+186365]\000A\0009Ordinal0 [0x00A9B70B+177931]\000A\0009Ordinal0 [0x00A82584+75140]\000A\0009Ordinal0 [0x00A83650+79440]\000A\0009Ordinal0 [0x00A835E9+79337]\000A\0009Ordinal0 [0x00C2AD5C+1813852]\000A\0009GetHandleVerifier [0x00E4C616+1075574]\000A\0009GetHandleVerifier [0x00E4C367+1074887]\000A\0009GetHandleVerifier [0x00E57497+1120247]\000A\0009GetHandleVerifier [0x00E4CC16+1077110]\000A\0009Ordinal0 [0x00C23206+1782278]\000A\0009Ordinal0 [0x00C2C3BB+1819579]\000A\0009Ordinal0 [0x00C2C523+1819939]\000A\0009Ordinal0 [0x00C42B45+1911621]\000A\0009BaseThreadInitThunk [0x76126359+25]\000A\0009RtlGetAppContainerNamedObjectPath [0x777A7C24+228]\000A\0009RtlGetAppContainerNamedObjectPath [0x777A7BF4+180]\000A,facebook.test:20->invocation.openbrowser:27 \00BB SessionNotCreated session not cr...,org.openqa.selenium.SessionNotCreatedException: \000Asession not created\000Afrom chrome not reachable\000A  (Session info: chrome=85.0.4183.102)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-2B0D9MGJ'\002C ip: '192.168.0.9'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.7'\000ADriver info: driver.version: ChromeDriver\000Aremote stacktrace: Backtrace:\000A\0009Ordinal0 [0x00D287E3+2852835]\000A\0009Ordinal0 [0x00C15BB1+1727409]\000A\0009Ordinal0 [0x00AEE362+516962]\000A\0009Ordinal0 [0x00AE7D82+490882]\000A\0009Ordinal0 [0x00AE846B+492651]\000A\0009Ordinal0 [0x00AE93C5+496581]\000A\0009Ordinal0 [0x00AE4D64+478564]\000A\0009Ordinal0 [0x00AEF300+520960]\000A\0009Ordinal0 [0x00A9E489+189577]\000A\0009Ordinal0 [0x00A9D7FD+186365]\000A\0009Ordinal0 [0x00A9B70B+177931]\000A\0009Ordinal0 [0x00A82584+75140]\000A\0009Ordinal0 [0x00A83650+79440]\000A\0009Ordinal0 [0x00A835E9+79337]\000A\0009Ordinal0 [0x00C2AD5C+1813852]\000A\0009GetHandleVerifier [0x00E4C616+1075574]\000A\0009GetHandleVerifier [0x00E4C367+1074887]\000A\0009GetHandleVerifier [0x00E57497+1120247]\000A\0009GetHandleVerifier [0x00E4CC16+1077110]\000A\0009Ordinal0 [0x00C23206+1782278]\000A\0009Ordinal0 [0x00C2C3BB+1819579]\000A\0009Ordinal0 [0x00C2C523+1819939]\000A\0009Ordinal0 [0x00C42B45+1911621]\000A\0009BaseThreadInitThunk [0x76126359+25]\000A\0009RtlGetAppContainerNamedObjectPath [0x777A7C24+228]\000A\0009RtlGetAppContainerNamedObjectPath [0x777A7BF4+180]\000A\000A\0009at browser.facebook.test(facebook.java:20)\000A
+
+
+# Created at 2020-09-20T12:56:04.031
+Unexpected IOException: 8,1,browser.facebook,close(browser.facebook),null,invalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-2B0D9MGJ'\002C ip: '192.168.0.9'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.7'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 85.0.4183.102\002C chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0...\002C userDataDir: C:\005CUsers\005Csree\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:56246}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:virtualAuthenticators: true}\000ASession ID: 9f9b3eae6f2ea4353d6a325ce5b24930,null,invalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-2B0D9MGJ'\002C ip: '192.168.0.9'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.7'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 85.0.4183.102\002C chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0...\002C userDataDir: C:\005CUsers\005Csree\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:56246}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:virtualAuthenticators: true}\000ASession ID: 9f9b3eae6f2ea4353d6a325ce5b24930,facebook.close:36 \00BB NoSuchSession invalid session id\000ABuild info: version: '3.1...,org.openqa.selenium.NoSuchSessionException: \000Ainvalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'LAPTOP-2B0D9MGJ'\002C ip: '192.168.0.9'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.7'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 85.0.4183.102\002C chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0...\002C userDataDir: C:\005CUsers\005Csree\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:56246}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:virtualAuthenticators: true}\000ASession ID: 9f9b3eae6f2ea4353d6a325ce5b24930\000A\0009at browser.facebook.close(facebook.java:36)\000A
+
+
+# Created at 2020-09-20T12:56:05.171
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+
